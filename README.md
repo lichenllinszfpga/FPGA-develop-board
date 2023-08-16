@@ -6,4 +6,4 @@ fpga company is gowin and lattice.
 
 If you like this, please see <http:www.szfpga.com> get more information.
  
-If you want buy this things. <a href="https://szfpga.taobao.com"> 
+If you want buy this things. <https://szfpga.taobao.com> 
